@@ -13,9 +13,9 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/karthikbr-ai/">LinkedIn</a> ·
-<a href="https://orcid.org/0009-0007-9864-7740">ORCID</a> ·
-<a href="mailto:karthikbrinfopro@gmail.com">Email</a> ·
+<a href="https://www.linkedin.com/in/karthikbr-ai/">LinkedIn</a> 
+<a href="https://orcid.org/0009-0007-9864-7740">ORCID</a> 
+<a href="mailto:karthikbrinfopro@gmail.com">Email</a> 
 <a href="https://github.com/karthikaxiom?tab=repositories">Repositories</a>
 
 </div>
